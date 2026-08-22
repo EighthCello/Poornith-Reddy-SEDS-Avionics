@@ -1,7 +1,7 @@
 # Poornith-Reddy-SEDS-Avionics
 SEDS Avionics induction.
 
-Note: I've marked the areas in which AI was used in the comments
+Note: I've marked the areas in which AI was used in the comments of the code.
 
 The biggest problem was obviously the errors. In my code, I've called them anomalies. (Spider-man ATSV reference)
 For now, anomalies are detected if a) they're non-numeric or b) if they're extreme values.
