@@ -1,6 +1,8 @@
 # Poornith-Reddy-SEDS-Avionics
 SEDS Avionics induction.
 
+Note: I've marked the areas in which AI was used in the comments
+
 The biggest problem was obviously the errors. In my code, I've called them anomalies. (Spider-man ATSV reference)
 For now, anomalies are detected if a) they're non-numeric or b) if they're extreme values.
 Now, checking for non-numeric values is easy, but how would I detect which value is "extreme"?
